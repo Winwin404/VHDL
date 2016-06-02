@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Jun 01 14:50:29 2016
+Quartus II 64-Bit Version : 9.1 Build 222 10/21/2009 SJ Full Version
+Revision Name : responder
+Top-level Entity Name : responder
+Family : Cyclone II
+Device : EP2C5T144C8
+Timing Models : Final
+Total logic elements : 909 / 4,608 ( 20 % )
+    Total combinational functions : 899 / 4,608 ( 20 % )
+    Dedicated logic registers : 221 / 4,608 ( 5 % )
+Total registers : 221
+Total pins : 19 / 89 ( 21 % )
+Total virtual pins : 0
+Total memory bits : 0 / 119,808 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 26 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )
